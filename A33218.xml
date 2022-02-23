@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to a pamphlet called The mischief of impositions which pretends to answer the Dean of St. Paul's sermon concerning The mischief of separation.</title>
+            <author>Clagett, William, 1646-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33218</idno>
+            <idno type="STC">Wing C4393</idno>
+            <idno type="STC">ESTC R23257</idno>
+            <idno type="EEBO-CITATION">12756440</idno>
+            <idno type="OCLC">ocm 12756440</idno>
+            <idno type="VID">93438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93438)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 377:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to a pamphlet called The mischief of impositions which pretends to answer the Dean of St. Paul's sermon concerning The mischief of separation.</title>
+                  <author>Clagett, William, 1646-1688.</author>
+               </titleStmt>
+               <extent>[5], 88 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by William Clagett. Cf. DNB.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+                  <note>Imperfect: p. 10-88 lacking on film.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stillingfleet, Edward, 1635-1699. --  Mischief of separation.</term>
+               <term>Alsop, Vincent, 1629 or 30-1703. --  Mischief of impositions.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93438:1"/>
+            <pb facs="tcp:93438:1" rendition="simple:additions"/>
+            <p>A REPLY To a Pamphlet called <hi>The MISCHIEF of IMPOSITIONS;</hi> Which pretends to ANSWER The Dean of St. <hi>Paul</hi>'s SERMON Concerning <hi>The MISCHIEF of SEPARATION.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop's Head</hi> in St. <hi>Paul</hi>'s Church-yard. 1681.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:93438:2"/>
+            <pb facs="tcp:93438:2"/>
+            <head>TO THE READER.</head>
+            <p>THat ſeveral Leading Men of the diſſenting Party were alarm'd at the <hi>Dean</hi> of St. <hi>Paul</hi>'s Sermon againſt the <hi>Separation,</hi> was not much to be wondered at; ſince it always concerns them as much as the Cauſe is worth to cry down any good Diſcourſe that tends to <g ref="char:V">Ʋ</g>nion: And it has ſtill been the unhappineſs of the Church of <hi>England</hi> ever ſince the Reformation, to be perſecuted on <hi>this ſide</hi> with more than ordinary cla<g ref="char:EOLhyphen"/>mour when <hi>Popiſh Plots</hi> have broken out, and ſhewn us our danger of being ruined by Violence and Trea<g ref="char:EOLhyphen"/>chery on the <hi>other.</hi> But it was generally believed that a Sermon ſo modeſt and unprovoking as this was, though it had not been Dr. <hi>Stillingfleet</hi>'s, would have met with all that reſpect and civility in trying to An<g ref="char:EOLhyphen"/>ſwer it, which <hi>theſe men</hi> could afford either to their <hi>Adverſaries</hi> or their <hi>Betters.</hi> And therefore it was not a little ſurpriſing to ſee Mr. <hi>A.</hi> come forth againſt the <hi>Dean</hi>'s Sermon, and fall upon it in ſuch a rude and lubberly faſhion, as if he had been to try his skill, and play a Prize of wit with ſome notable <hi>Buffoon</hi> like himſelf. We have not ſo much reaſon to be angry with him as the grave Men of his own Party have, who may ſuffer in their Reputation for the ſake of this Man's folly and raſhneſs. If it could have been done,
+<pb facs="tcp:93438:3"/>they had ſhewn their <hi>Diſcretion</hi> by chaining him up for this time, a great deal more than he has ſhewn his <hi>Wit</hi> by coming abroad. To gratifie a few of his own Temper, he has done great diſſervice to the Diſſenters, who are deſirous of <hi>Union,</hi> as I have ſhewn in the following Book. And therefore I hope it will not prove offenſive to Theſe, how unwelcome ſoever it may be to the Reſt. I cannot deny but Mr. <hi>A.</hi> has provided pret<g ref="char:EOLhyphen"/>ty well for the pleaſant entertainment of his Readers, which was not the leaſt part of his deſign; And ſome<g ref="char:EOLhyphen"/>times I was not able to forbear laughing a little to ſee what pains he has taken every where about a poor <hi>Jeſt</hi> that was ſomewhat backward, to pull it in by Head and Ears. But I cannot believe the Contro<g ref="char:EOLhyphen"/>verſie in which he has meddled to be a laughing mat<g ref="char:EOLhyphen"/>ter; And therefore if the Reader expects any of Mr. <hi>A.</hi>'s Wit in <hi>my</hi> Anſwer to him, he will be no leſs diſappoin<g ref="char:EOLhyphen"/>ted, than I was of my expectation to find ſome <hi>Seri<g ref="char:EOLhyphen"/>ouſneſs</hi> in <hi>his</hi> Anſwer to the <hi>Dean.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:93438:3"/>
+            <head>AN ANSWER To a Book Entituled the <hi>MISCHIEF of IMPOSITIONS;</hi> OR, A <hi>Soveraign Antidote,</hi> &amp;c.</head>
+            <p>DR. <hi>O.</hi> and Mr. <hi>B.</hi> had already done their beſt to preſerve the people from being infected with diſpoſitions to Peace and Unity by the Dean of Saint <hi>Paul</hi>'s late Sermon: But this Gentle<g ref="char:EOLhyphen"/>man, to ſhew his greater skill, compounds their Argu<g ref="char:EOLhyphen"/>ments over again, gives them a tincture of his own unmannerly briskneſs, and ſets them to ſale at Mr. <hi>Ben<g ref="char:EOLhyphen"/>jamin Alſop</hi>'s Shop, under the name of <hi>A Soveraign An<g ref="char:EOLhyphen"/>tidote againſt a late Diſcourſe,</hi> &amp;c.</p>
+            <p>If this man underſtands the temper of his Party, I ſee what it is that muſt make a Book a Soveraign Remedy to prevent their being wrought upon by Reaſon and Meekneſs. It muſt be ſet off with ful<g ref="char:EOLhyphen"/>ſome ſimilitudes, and a ſcoundrel ſort of Jeſting, toge<g ref="char:EOLhyphen"/>ther with rude and inſolent Reflexions upon their Su<g ref="char:EOLhyphen"/>periours; which operate marvellouſly well with ſome people. The man is eminent in theſe gifts above his
+<pb n="2" facs="tcp:93438:4"/>Brethren; and with ſome of them he goes for one of a ſanctified and unanſwerable Wit.</p>
+            <p>And who can blame them for being charm'd with ſuch melodious ſtrains of his Fancy as theſe are? <hi>Thus have I ſeen one ſport with a Dog, ſhewing him a Cruſt,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 4.</note> 
+               <hi>which when the Cur has zealouſly jumpt to reach, he holds it up higher. So have I known a ſorry Jade, which in the hands of a poor Country-man would not give five Marks,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 51.</note> and ſo forth. <hi>So have I heard ſome<g ref="char:EOLhyphen"/>where of a Cutler's Boy that was making a Knife. So have I ſeen idle Maſters delight themſelves to ſee their Children play at Bob-apple, when the poor young Raſcals would have been glad of a bit.</hi> And doubtleſs he has alſo ſeen theſe <hi>young Raſcals riding on a penny Colt or Gelding,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 11, 12.</note> and <hi>ſometimes pouting for the loſs of that fa<g ref="char:EOLhyphen"/>mous Engin of the Nut-crack,</hi> juſt as Biſhops do for <hi>Ce<g ref="char:EOLhyphen"/>remonies.</hi> He has made, you ſee, a very profitable uſe of his time at play; and redeemed his idle hours by turning theſe goodly obſervations into ſpiritual helps. And he has been no unprofitable hearer nei<g ref="char:EOLhyphen"/>ther at the Mountebank's Stage; where to his great. Improvement he hath heard the Fool entertain the Rabble with ſuch Proclamations as he makes, <note place="margin">
+                  <hi>p.</hi> 34.</note> 
+               <hi>O yes! If any honeſt Gentleman or Citizen has taken up,</hi> and ſo forth.</p>
+            <p>But after all, this is a very clowniſh dirty way of Writing, ſo much beneath a Man, that a School<g ref="char:EOLhyphen"/>boy had deſerved the laſh for it; eſpecially ſince this Authour had to do with Dr. <hi>Stillingfleet,</hi> of whom at laſt he pretends with Hypocriſie enough, to have <hi>thoſe awfull thoughts,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 101.</note> &amp;c. which ſhould have made him aſhamed of ſpending ſuch boyiſh Conceits upon that Reverend Perſon, as if this man were at his old ſports of <hi>bobbing the Dog with a Cruſt,</hi> and <hi>the young Raſcals with an Apple.</hi>
+            </p>
+            <pb n="3" facs="tcp:93438:4"/>
+            <p>But beſides theſe excellent alluſions for the edi<g ref="char:EOLhyphen"/>fication of Boys and Girls, and the bringing down of his ſaucineſs to the uſe of the meaneſt capacities; he has ſeveral Conceits of a bigger ſize to produce upon occaſion; For Inſtance, <note place="margin">Ep. Ded.</note> 
+               <hi>So have we ſometime ſeen a mighty Conquerour impoſe ſuch terms upon the Conquer'd.</hi>
+               <note place="margin">
+                  <hi>p.</hi> 49.</note> 
+               <hi>Somewhere or other I have ſeen or read of a great Gentleman who courted a Lady, and ſuch an Inamorato was he grown, that he became exceedingly melancholy.</hi> And he has <hi>ſeen</hi> I know not how many more ſuch ſine things as theſe; and if he can but keep his eyes in his head, at this rate he is likely to be a Wit as long as he lives.</p>
+            <p>But the ſweeteſt of all his flouriſhes, is that Com<g ref="char:EOLhyphen"/>plement to my <hi>Lord Mayor</hi> and the <hi>City,</hi> where he fancied the Dean's <hi>Sermon</hi> to be a <hi>Ship,</hi> and the de<g ref="char:EOLhyphen"/>ſire of the <hi>Court</hi> that it might be Printed, to be <hi>the Flag of London ſtreaming before it.</hi>
+               <note place="margin">Ep. Ded.</note> For he <hi>proteſts that he is always ready to ſtrike Sail to the meaneſt Yacht that hangs out the Colours of ſo ſacred a Name, ſo great an Authority;</hi> And it is no ſmall condeſcen<g ref="char:EOLhyphen"/>ſion I aſſure you in ſo mighty a <hi>Man of War,</hi> as this fooling ſhews him to be in his own opinion, to <hi>ſtrike Sail to a Yacht.</hi> However it was well done of him to tell us that he counts the <hi>Name and Authority</hi> of my Lord Mayor and the Court of Aldermen, <hi>Great and Sacred;</hi> for otherwiſe no man that reads his Book could reaſonably believe that he had the leaſt reverence to any Authority in this Kingdom. But a well bread Clown will never ſhame his profeſſion. He had hardly taken breath after his manners to my Lord, but he gives him a Jeer, the beſt he had, for <hi>Ordering that to be Printed which the Doctour had farther to deliver;</hi> for, ſays he, <hi>this looks like that
+<pb n="4" facs="tcp:93438:5"/>Injunction in the Rubrick, upon the Miniſter, to uſe a Homily that is hereafter to be ſet forth by Common Authority.</hi> Theſe are brave fellows; If they have a mind to abuſe my Lord Mayor, they make him like to ſomething in the Book of Common Prayer, and the buſineſs is done.</p>
+            <p>This is the Gentleman that does not think it <hi>law<g ref="char:EOLhyphen"/>full</hi> to <hi>be pleaſant in ſo ſad a caſe as theirs is,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 2.</note> as he tells you when he complains of <hi>the pride, rigour and imperiouſneſs of their Adverſaries.</hi> But <hi>it is a ſad caſe</hi> that men ſhould not be aſhamed of ſuch open Hypocriſie as this. He would make you believe that <hi>they are batter'd continually with violence from without;</hi>
+               <note place="margin">Ep. Ded.</note> and as if he and all his Party were upon the Rack, he cries out, <hi>Give us a little eaſe from our preſent calamities.</hi>
+               <note place="margin">
+                  <hi>p.</hi> 47.</note> 
+               <hi>'Tis cruel to plague and torment us that are quiet and peaceable, and deſign nothing but ſerving our God and ſaving our Souls:</hi> Nothing in the world elſe, he aſſures you upon his honeſt word; and therefore he <hi>forewarns,</hi> you know whom, <hi>leſt they make themſelves guilty in the ſight of God,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 80.</note> 
+               <hi>of wilfull and damnable ſins, as bad as thoſe of the Jews, who thought they did God good ſervice, when they perſecuted and murthered his faithfull Servants.</hi> And at this rate he is ever and anon bemoaning himſelf and his companions, and upbraiding the Perſecutours. But was ever any man ſo jocund withall, and ſo jolly in ſo ſad a caſe as this man deſcribes theirs to be, and all the while is not able to whine it out in a decent manner, for laughing? If they can find in their hearts to play with <hi>Nut-cracks,</hi> and <hi>Hobby-horſes,</hi> and <hi>Inamorato's,</hi> &amp;c. one would think the <hi>Animal</hi> life were under no great perſecution, but that theſe men are as much <hi>at eaſe from preſent calamities</hi> as
+<pb n="5" facs="tcp:93438:5"/>their Neighbours. I believe if this Gentleman or his friends either ſuffered, or were afraid to ſuffer ſuch reſtraints from the Government as they had reaſon to complain of; they durſt not provoke their Rulers in that inſolent faſhion, wherein this man uſes them, who very pertly demands of them, <hi>Why they do not looſe the bands of wickedneſs, and undoe the heavy burthens, and let the oppreſſed go free, and break every yoke,</hi> Iſa. 58.6. <hi>Some,</hi> ſays he, <hi>will ſay this Scripture is impertinently applied.</hi>
+               <note place="margin">
+                  <hi>p.</hi> 5.</note> Impertinently? 'Tis lewdly and ſeditiouſly applied, to inflame the people againſt their Governours, by libelling them as a company of wicked oppreſſours, whileſt his own wantonneſs and preſumption ſhews that in his ſleeve he laughs at their patience. The greateſt cauſe of complaint they have againſt the Govern<g ref="char:EOLhyphen"/>ment is, that the Law forbids their flocking together in great numbers, for which they may thank their own practices when time was, as we can ſhew them, if they liſt to hear it. But notwithſtanding this Law they meet as boldly, and the Government has for the moſt part, born it as gently, as if there were no ſuch Law at all. This is their true caſe, which this Gentleman cannot expreſs but in the Tragical Cha<g ref="char:EOLhyphen"/>racters of <hi>a horrid deſign,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 17.</note> of <hi>the fiery fury of perſecu<g ref="char:EOLhyphen"/>tion,</hi> of <hi>wrath and vengeance, fire and faggot. The Queſtion now,</hi> he tells you is, <hi>Snick or ſnee,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 64.</note> 
+               <hi>turn or ſtarve, conform or hang, uſe the Croſs or bear the Croſs.</hi> What can be greater Impudence than this, to pub<g ref="char:EOLhyphen"/>liſh ſuch odious ſuggeſtions againſt the Government, as are no better than notorious lies? If there were a Law to puniſh liars with death, he, to ſave himſelf from hanging, could not name a Nonconformiſt that has either been hang'd or ſtarv'd for his Noncon<g ref="char:EOLhyphen"/>formity.
+<pb n="6" facs="tcp:93438:6"/>And it is mere mockery in him to talk of <hi>bearing the Croſs unleſs they will uſe it,</hi> ſince they live in as good plenty as other men, as every body knows, and are as much protected by the Laws. But ſuch as he are as nice and delicate, and as fond<g ref="char:EOLhyphen"/>ly conceited of themſelves, as ſome of the froward <hi>young Raſcals he has ſeen,</hi> that roar as if they were going to be flead, unleſs they may have their wills in every thing. He mocks the Government, and profanes the Scripture phraſe too, while he talks of <hi>their bearing the Croſs,</hi> which is an expreſſion that their ſufferings would not bear, if their cauſe did. They have forgot ſure, when they made merry with the ruin of hundreds of Clergymen and their Fami<g ref="char:EOLhyphen"/>lies; This was not perſecution, but godly zeal; and one would gueſs this man has an aking tooth to be at it again, though with <hi>ſnick or ſnee,</hi> as he calls it. For he plainly warns us that we <hi>do not make it In<g ref="char:EOLhyphen"/>different to Diſſenters,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 5.</note> 
+               <hi>whether they be ſmothered in the Houſe, or forced to venture their necks by leaping out at the Windows; for,</hi> ſays he, <hi>ſo have the miſerable Hungarians been tempted, to think it better to live, nay to dye once under the Ottoman Sword, than to be always dying under the Auſtrian Tyranny.</hi> To ſay no more of it, this was at leaſt very raſhly and indiſ<g ref="char:EOLhyphen"/>creetly ſaid, unleſs this man be privileged to favour the <hi>Popiſh Sham</hi> of charging the <hi>Presbyterians</hi> with a Plot; for his meaning is plainly this, that they are tempted to think it better to take a part in the De<g ref="char:EOLhyphen"/>ſign of the Papiſts, to overthrow Church and State, though they run the hazard of having their throats cut by them at laſt, than to be ſo miſerably perſecu<g ref="char:EOLhyphen"/>ted as they are, under the Tyranny of the preſent Government. He tells us indeed towards the end
+<pb n="7" facs="tcp:93438:6"/>of his Book, that <hi>they ſhall not petition with the Pa<g ref="char:EOLhyphen"/>piſts for a general Toleration;</hi> and therefore I can make nothing of his menacing us with the <hi>Hungarian Precedent,</hi> but that they may venture their necks once more to get the power into their hands, of <hi>to<g ref="char:EOLhyphen"/>lerating,</hi> or <hi>refuſing to tolerate</hi> whom they pleaſe. But I hope the Diſſenters underſtand their intereſt, and their duty better than to be wheadled into ſuch dangerous practices, by the intimations of this ſedi<g ref="char:EOLhyphen"/>tious Talker. And thus much I can ſay for ſome of them, that they utterly diſlike the intemperate and rude expreſſions, as well as the Buffoonry of his Book; And if what he ſometimes ſuggeſts of the Nonconformiſts was true <hi>before;</hi> that they are huge<g ref="char:EOLhyphen"/>ly agreed among themſelves; he has altered the caſe <hi>ſince,</hi> by publiſhing his Antidote: for though there are ſome amongſt them that think he hath done emi<g ref="char:EOLhyphen"/>nent ſervice to the Party, yet there are ſome again, as wiſe as they, that are of another opinion, and will give him as little thanks for his labour, as he gives Dr. <hi>Stillingfleet</hi> for <hi>his Defence of the Church of England</hi> againſt <hi>T. G.</hi> the Papiſt.</p>
+            <p>There are a ſort of men ſo given to railing, that they can no more forbear it than a common ſwearer can his oaths. And I never met with a plainer In<g ref="char:EOLhyphen"/>ſtance of it, than in this man; who if he were as much afraid of the ſeverity of the Government, as the dolefull complaints he makes of perſecution would perſuade us, ſhould in prudence have given his Maſters good language at leaſt, how ſpitefull ſo<g ref="char:EOLhyphen"/>ever his thoughts might have been: eſpecially when he was anſwering a Sermon deſigned to work upon the Diſſenters, by nothing but the Force of Reaſon, and the Gentleneſs of Perſuaſion. If he had not
+<pb n="8" facs="tcp:93438:7"/>been ready to burſt with Choler and Diſdain, he had waited for a fitter occaſion to vent himſelf; which becauſe he had not, he was fain to pretend one though he <hi>lied</hi> for it. He asks the Doctor amongſt others, <note place="margin">
+                  <hi>p.</hi> 10.</note> 
+               <hi>You are able to forbear railing and perſecuting, are you not?</hi> and he often inſinuates that they are ſo provok'd, that it is impoſſible for them to keep ſilence: Whereas, there is not the leaſt ſeveri<g ref="char:EOLhyphen"/>ty of expreſſion in the whole Sermon, but that the Doctor <hi>knew not how it came to paſs, that the moſt godly among them can leaſt endure to be told of their faults.</hi> And I think they have ſhewn ſince, that he was not much miſtaken in them; this man eſpecial<g ref="char:EOLhyphen"/>ly, who I dare ſay does not count himſelf the <hi>leaſt godly</hi> of the Party.</p>
+            <p>If you will believe him they do <hi>not complain of their hardſhips with uncivil reflections,</hi>
+               <note place="margin">
+                  <hi>p.</hi> 95.</note> and yet in the next breath he compares the Doctor to <hi>the keepers of the Inquiſition, that jeer at their wretched priſoners,</hi> and this onely for adviſing them not to be always complaining of their hardſhips and perſecutions. Nay he makes him like <hi>Julian the Apoſtate</hi> in <hi>mocking the Chriſtians when he had ſtripped them of the world's cumber, which was an hindrance to them in their ſpiri<g ref="char:EOLhyphen"/>tual race.</hi> Are not theſe <hi>uncivil,</hi> or rather are they not lewd and ungodly <hi>reflexions,</hi> upon a man that never intended nor did them the leaſt harm, but gently adviſed them to beware of doing that, which in plain terms, this man is a Hypocrite for doing. <hi>How eaſie is it,</hi> he cries out, <hi>for them that are at eaſe to read lectures of patience to thoſe in miſery!</hi> But where are thoſe miſerable creatures he talks of? In what holes have they been hid all this while, that we have not ſeen one of them this twenty years?
+<pb n="9" facs="tcp:93438:7"/>Why not ſo much as one of the wretches brought forth to move our compaſſion? or at leaſt ſhould we not be told where one of theſe ſad ſpectacles might be ſeen; which would convince us of the <hi>miſchief of Impoſitions,</hi> and incline us to pity a thouſand times more than this man's clamour and bawling? If any of them are in ſo hard a condition, as he would make us believe, let us but know the man, and he ſhall ſoon ſee that we will be more mercifull to him, than thoſe of his own Party, who, it ſeems, as wealthy as they are, can be ſo covetous and hard-hearted, as to let them be ready to periſh for want of relief. Poſſibly ſome of them may be in a mean condition, and when he has told us how many they are, we will ſhew him double the number of conformable Clergymen that are as low in the world if not lower than they; and withall many more worthy perſons that were utterly ruined under the zeal of ſuch men as this, when they called out one another to go a <hi>Par<g ref="char:EOLhyphen"/>ſon-hunting.</hi> Theſe things they have been told of ſome years ſince; nor have they ſaid any thing to it; <note place="margin">
+                  <hi>Friendly De<g ref="char:EOLhyphen"/>bate.</hi> 3<hi rend="sup">a</hi>. p<hi rend="sup">t</hi>.</note> but ſtill they go on to complain of their Perſecutions. As far as I am able to inform my ſelf, theſe men do not need our pity, but are better to paſs than moſt of us that conform to the Laws, and we envy them not; but 'tis intolerable wantonneſs in them all the while to roar and bellow as if they were forced to beg their bread from door to door.</p>
+            <p>For my part, I could wiſh that they would give encouragement to our Rulers to take their pretences againſt Conformity, as things ſtand, into conſiderati<g ref="char:EOLhyphen"/>on once more, and to make ſome trial what good might be done upon ſuch terms as would ſatisfie the moſt rea<g ref="char:EOLhyphen"/>ſonable amongſt them, and to govern even thoſe</p>
+            <gap reason="missing" extent="79 pages">
+               <desc>〈79 pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
